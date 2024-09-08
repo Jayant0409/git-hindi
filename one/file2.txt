@@ -1,2 +1,3 @@
 this is my file2 for git couse
 hello this is my first commit
+this is my seccond commit
