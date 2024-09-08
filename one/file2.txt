@@ -1,2 +1,2 @@
 this is my file2 for git couse
-hello this is my first commit 
+hello this is my first commit
